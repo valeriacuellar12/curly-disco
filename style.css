@@ -1,0 +1,41 @@
+h1{
+  font-family: hue;
+  font-size: 80px;
+  color: black;
+  background-image:url(https://www.eitmedia.mx/media/k2/items/cache/a809ba8e0a64e0c4faf4e630a4a9c310_XL.jpg);
+}
+h3{
+  font-family: hue;
+  font-size: 40px;
+}
+body{
+  background-color: #f9ebeb;
+}
+div{
+font-size: 60px;
+}
+img{
+  height:100%
+  width: 100%;
+}
+.mcontainer{
+  display:flex;
+  width: 100%;
+  border:solid;
+}
+.ccontainer{
+max-width: 600px;
+font-size: 27px;
+}
+.lcontainer{
+  max-width:600px;
+  font-size: 27px;
+}
+.licontainer{
+  max-width:600px;
+  font-size: 30px;
+}
+.scontainer{
+  max-width:600px;
+  font-size: 30px;
+}
